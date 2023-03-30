@@ -1,2 +1,24 @@
 # Ignore virtual environment files
 venv/
+
+# Ignore virtual environment files
+.gitignore
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+*.out
+debug.log
+
+# Configuration files
+.env
+config.json
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
